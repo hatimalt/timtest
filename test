@@ -1,0 +1,3 @@
+import os
+os.system("clean")
+print ("essai")
